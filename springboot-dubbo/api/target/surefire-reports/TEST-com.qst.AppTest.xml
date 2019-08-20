@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.qst.AppTest" time="0.043" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="C:\Users\DELL\Desktop\springboot-dubbo\api\target\test-classes;C:\Users\DELL\Desktop\springboot-dubbo\api\target\classes;I:\Apache\repository\junit\junit\4.11\junit-4.11.jar;I:\Apache\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="I:\java\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\DELL\AppData\Local\Temp\surefire4326150928647690167\surefirebooter2699343940492162781.jar C:\Users\DELL\AppData\Local\Temp\surefire4326150928647690167 2019-08-19T16-19-26_388-jvmRun1 surefire9107971351963244495tmp surefire_05811210078216810691tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\DELL\Desktop\springboot-dubbo\api\target\test-classes;C:\Users\DELL\Desktop\springboot-dubbo\api\target\classes;I:\Apache\repository\junit\junit\4.11\junit-4.11.jar;I:\Apache\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\DELL"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="I:\java\jre"/>
+    <property name="basedir" value="C:\Users\DELL\Desktop\springboot-dubbo\api"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\DELL\AppData\Local\Temp\surefire4326150928647690167\surefirebooter2699343940492162781.jar"/>
+    <property name="sun.boot.class.path" value="I:\java\jre\lib\resources.jar;I:\java\jre\lib\rt.jar;I:\java\jre\lib\sunrsasign.jar;I:\java\jre\lib\jsse.jar;I:\java\jre\lib\jce.jar;I:\java\jre\lib\charsets.jar;I:\java\jre\lib\jfr.jar;I:\java\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="user.name" value="DELL"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="I:\java\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="I:\Apache\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DELL\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2018.2.7"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="user.dir" value="C:\Users\DELL\Desktop\springboot-dubbo\api"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="I:\java\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;I:\各Java安装包\xshell\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;F:\app\DELL\product\11.2.0\dbhome_1\bin;F:\oracle\新建文件夹\product\11.2.0\dbhome_1\bin;%Sys;emRoot%\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\shell;I:\mysql-5.7.25-winx64\bin;I:\git\Git\cmd;I:\Git\cmd;I:\rabbitMQ\OTP\erl9.2\bin;C:\WINDOWS\system32;I:\rabbitMQ\rabbitmq_server-3.7.6\sbin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;I:\gradle-4.9\bin;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;I:\java\bin;I:\java\jre\bin;I:\Apache\maven\bin\;I:\mysql-5.7.25-winx64\bin;I:\rabbitMQ\OTP\erl9.2\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.ext.dirs" value="I:\java\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.qst.AppTest" time="0.002"/>
+</testsuite>
